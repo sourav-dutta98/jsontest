@@ -1,4 +1,22 @@
-{
+[{
 name:"Ram",
 age:24
-}
+},
+
+{
+name:"Rama",
+age:13
+},  
+{
+name:"Ramesh",
+age:34
+},
+  {
+name:"Rakesh",
+age:34
+},
+  {
+name:"sham",
+age:24
+},
+]
