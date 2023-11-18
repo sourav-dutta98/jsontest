@@ -1,0 +1,7 @@
+[
+    {
+        "question":"Find the average of the following sets of scores: 385,441,876,221,536,46,291,428",
+        "answer":"403",
+        "options":["221","403","428","None of these"]
+    }
+]
