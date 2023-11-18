@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Number System",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/number_system.json"
+    },
+    {
+        "name":"Average",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/average.json"
+    },
+    {
+        "name":"Percentage",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/percentage.json"
+    },
+    {
+        "name":"Simplification",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/simplification.json"
+    },
+    {
+        "name":"Time & Work",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/time_work.json"
+    },
+    {
+        "name":"Time & Distance",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/time_distance.json"
+    },
+    {
+        "name":"Ratio & Proportion",
+        "url":"https://github.com/sourav-dutta98/jsontest/blob/main/ratio_proportion.json"
+    }
+]
